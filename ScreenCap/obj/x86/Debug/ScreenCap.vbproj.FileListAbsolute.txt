@@ -1,0 +1,69 @@
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\bin\Debug\ScreenCap.exe
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\bin\Debug\ScreenCap.pdb
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\bin\Debug\ScreenCap.xml
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\obj\x86\Debug\ScreenCap.exe
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\obj\x86\Debug\ScreenCap.xml
+C:\Users\Hard\AppData\Local\Temporary Projects\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.exe
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.xml
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\bin\Debug\ScreenCap.exe
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\bin\Debug\ScreenCap.pdb
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\bin\Debug\ScreenCap.xml
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
+C:\Users\Hard\Desktop\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.CaptureForm.resources
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.exe
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.xml
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\bin\Debug\ScreenCap.exe
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\bin\Debug\ScreenCap.pdb
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\bin\Debug\ScreenCap.xml
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.CaptureForm.resources
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+C:\Users\Hard\Desktop\DevFolder\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
+N:\Aplicaciones\ScreenCap\ScreenCap\bin\Debug\ScreenCap.exe
+N:\Aplicaciones\ScreenCap\ScreenCap\bin\Debug\ScreenCap.pdb
+N:\Aplicaciones\ScreenCap\ScreenCap\bin\Debug\ScreenCap.xml
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.CaptureForm.resources
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.exe
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.xml
+N:\Aplicaciones\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.exe
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.xml
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+N:\Dev App\ScreenCap\ScreenCap\bin\Debug\ScreenCap.exe
+N:\Dev App\ScreenCap\ScreenCap\bin\Debug\ScreenCap.pdb
+N:\Dev App\ScreenCap\ScreenCap\bin\Debug\ScreenCap.xml
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.CaptureForm.resources
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+N:\Dev App\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.exe
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.xml
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\bin\Debug\ScreenCap.exe
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\bin\Debug\ScreenCap.pdb
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\bin\Debug\ScreenCap.xml
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.CaptureForm.resources
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+N:\Nexus\App\SystemApp\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.exe
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.xml
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.pdb
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\bin\Debug\ScreenCap.exe
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\bin\Debug\ScreenCap.pdb
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\bin\Debug\ScreenCap.xml
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.CaptureForm.resources
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Form1.resources
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.Resources.resources
+C:\Users\Timeless\Desktop\net dev\ScreenCap\ScreenCap\obj\x86\Debug\ScreenCap.vbproj.GenerateResource.Cache
